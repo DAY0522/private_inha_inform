@@ -1,0 +1,5 @@
+학번_Assignment2로 제목 설정
+모두 압축해서 제출
+
+
+#pragma 1 또는 #ifndef 하기
